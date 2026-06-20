@@ -23,7 +23,7 @@
   "homepage": "https://github.com/repo-utils/giturl",
   "repository": {
     "type": "git",
-    "url": "git://github.com/repo-utils/giturl.git"
+    "url": "git+https://github.com/repo-utils/giturl.git"
   },
   "bugs": {
     "url": "https://github.com/repo-utils/giturl/issues"
